@@ -1,4 +1,4 @@
-# Homework6: Sparse Numeric Vector Package <a href="https://github.com/YOUR-USERNAME/Homework6/actions/workflows/R-CMD-check.yaml"><img src="https://github.com/YOUR-USERNAME/Homework6/actions/workflows/R-CMD-check.yaml/badge.svg" alt="R-CMD-check"></a>
+# Homework6: Sparse Numeric Vector Package <a href="https://github.com/TarunMano/Homework6/actions/workflows/R-CMD-check.yaml"><img src="https://github.com/YOUR-USERNAME/Homework6/actions/workflows/R-CMD-check.yaml/badge.svg" alt="R-CMD-check"></a>
 
 ## Overview
 
