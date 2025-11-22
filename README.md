@@ -31,4 +31,4 @@ You can install the package from GitHub using:
 
 ```r
 # install.packages("remotes")
-remotes::install_github("YOUR-USERNAME/Homework6")
+remotes::install_github("TarunMano/Homework6")
