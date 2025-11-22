@@ -1,0 +1,22 @@
+Package: Homework6
+Title: Sparse Numeric Vectors for SDS 375
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tarun", "Manoharan", email = "tarun@example.com", role = c("aut", "cre"))
+Description: Provides an S4 class 'sparse_numeric' for representing sparse
+    numeric vectors, along with methods for arithmetic, plotting, norms,
+    and standardization. Developed as part of Homework 6 for SDS 375.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+    methods,
+    graphics
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Config/Needs/website: pkgdown
+URL: https://github.com/TarunMano/Homework6,
+    https://TarunMano.github.io/Homework6/
+BugReports: https://github.com/TarunMano/Homework6/issues
